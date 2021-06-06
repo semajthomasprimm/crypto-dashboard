@@ -2,6 +2,16 @@
 
 A price tracker for top 100 cryptocurrencies based on [CoinGecko](https://www.coingecko.com/en). Displays the price, 24h Volume, market cap, and 24h Change with the table.
 
+[Live Preview](https://cryptodashboardsprimm.netlify.app/)
+
+## Preview
+### Light mode
+![Lightmode](light-mode.png)
+
+### Dark mode
+![Darkmode](dark-mode.png)
+
+
 ## Features
 + Currency switching
 + Search by crypto name
