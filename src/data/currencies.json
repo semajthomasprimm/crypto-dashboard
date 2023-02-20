@@ -1,0 +1,27 @@
+[
+  {
+    "value": "usd",
+    "label": "USD",
+    "symbol": "$"
+  },
+  {
+    "value": "cad",
+    "label": "CAD",
+    "symbol": "CA$"
+  },
+  {
+    "value": "gbp",
+    "label": "GBP",
+    "symbol": "£"
+  },
+  {
+    "value": "inr",
+    "label": "INR",
+    "symbol": "₹"
+  },
+  {
+    "value": "eur",
+    "label": "EUR",
+    "symbol": "€"
+  }
+]

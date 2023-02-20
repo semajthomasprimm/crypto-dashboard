@@ -20,6 +20,7 @@ A price tracker for top 100 cryptocurrencies based on [CoinGecko](https://www.co
 
 ## Built with:
 - [ReactJS](https://github.com/facebook/react/) for composing the UI
+- [Bootstrap 5](https://getbootstrap.com) for styling
 - [SWR](https://github.com/vercel/swr) for fast data fetching from [CoinGecko](https://www.coingecko.com/en) API
 - [react-select](https://github.com/jedwatson/react-select) for Currency select options 
 - [local-storage-fallback](https://github.com/ripeworks/local-storage-fallback) for local storage adapter
@@ -33,5 +34,4 @@ A price tracker for top 100 cryptocurrencies based on [CoinGecko](https://www.co
 ## Upcoming Features
 - [ ] Add column in table for price change in Last 7 days
 - [ ] Add a line graph in Last 7 Days displaying the change in price for each crypto in the table
-- [ ] Add Pagination for 
-- [ ] Add dark theme to react-select component
+- [x] Add support for more currencies

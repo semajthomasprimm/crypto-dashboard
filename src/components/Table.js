@@ -101,7 +101,7 @@ const Table = (props) => {
             </table>
             {filteredCryptoData.length === 0 && <p className="text-center">No matches. Sorry!</p>}
         </div>
-    )
+    );
 }
 
 export default Table
